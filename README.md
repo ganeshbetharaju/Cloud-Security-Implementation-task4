@@ -1,6 +1,6 @@
 ---
 
-## Task 4: Cloud Security Implementation
+Task 4: Cloud Security Implementation
 
 **Objective:** To implement fundamental security controls on a cloud platform by configuring Identity and Access Management (IAM) policies and enabling data encryption to protect cloud resources.
 
