@@ -1,3 +1,17 @@
+#CloudComputing
+
+**Company**: CODTECH IT SOLUTIONS
+
+**Name**: BETHARAJU GANESH
+
+**Intern ID**: CT04DZ2046
+
+**Domain**: CLOUD COMPUTING
+
+**Duration**: 4 Weeks
+
+**Mentor**: NEELA SANTHOSH
+
 ## Task 4: Cloud Security Implementation
 
 **Objective:** To implement fundamental security controls on a cloud platform by configuring Identity and Access Management (IAM) policies and enabling data encryption to protect cloud resources.
